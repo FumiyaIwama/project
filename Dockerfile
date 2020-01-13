@@ -1,3 +1,3 @@
-M dockersamples/static-site
-ENV AUTHOR="Iwama Fumiwa"
+FROM dockersamples/static-site
+ENV AUTHOR="FumiyaIwama"
 
